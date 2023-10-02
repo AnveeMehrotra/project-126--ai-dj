@@ -1,0 +1,19 @@
+.heading{
+width: 100%;
+font-size: 28px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-top:0%;
+}
+
+
+canvas{
+    border: 5px solid white;
+    border-radius:20px;
+    margin-top:300px;
+}
+
+#songname{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 27px;
+    font-weight: bolder;
+}
